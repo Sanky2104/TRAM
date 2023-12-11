@@ -1,7 +1,5 @@
 package backend;
 
-import backend.*;
-
 import java.sql.*;
 import java.time.LocalDate;
 import java.time.LocalTime;
